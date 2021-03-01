@@ -1,3 +1,9 @@
+.idea
+
+MAYHEM_ebook.txt
+MAYHEM_translated.txt
+key.txt
+
 *.gem
 *.rbc
 /.config
