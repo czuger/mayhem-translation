@@ -1,8 +1,6 @@
 .idea
 
-MAYHEM_ebook.txt
-MAYHEM_translated.txt
-key.txt
+*.txt
 
 *.gem
 *.rbc
