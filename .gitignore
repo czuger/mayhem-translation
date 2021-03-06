@@ -1,6 +1,9 @@
 .idea
 
 *.txt
+*.docx
+cache.store
+MAYHEM_ebook*
 
 *.gem
 *.rbc
